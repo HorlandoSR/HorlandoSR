@@ -12,7 +12,7 @@ Hi Everyone :) 👋, I'm Horlando, You Can Call Me Haykal
 
 **Donate:**
 
-[<code><img alt="Paypal" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtu0A0ei_zJNYA2SjujzpX1MFs4j348OIuNtQSj8JBOJuy-LCwx7CzuQ&s=10"/></code>](https://saweria.co/HorlandoSRG)
+[<code><img alt="Paypal" height="20px" src="/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fsrc%2Fassets%2Fhomepage_characters.30fcbcb85a37779a9c03e54a8c2938dd.svg&w=3840&q=75"/></code>](https://saweria.co/HorlandoSRG)
 
 
 ## 🚶 Visit Me
