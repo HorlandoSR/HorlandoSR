@@ -10,6 +10,11 @@ Hi Everyone :) 👋, I'm Horlando, You Can Call Me Haykal
 [<code><img alt="PocketMine" height="20px" src="https://avatars3.githubusercontent.com/u/3150836?s=200&v=4"/></code>](https://github.com/pmmp/PocketMine-MP)
 [<code><img alt="Poggit" height="20px" src="https://avatars2.githubusercontent.com/u/22427965?s=400&u=ab2083244b63dc147f5841cd9e5399634a8b0853&v=4"/></code>](https://poggit.pmmp.io)
 
+**Donate:**
+
+[<code><img alt="Paypal" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtu0A0ei_zJNYA2SjujzpX1MFs4j348OIuNtQSj8JBOJuy-LCwx7CzuQ&s=10"/></code>](https://saweria.co/HorlandoSRG)
+
+
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgNw20utw8M3e6afru4JRZA)
 ## &#x1f4c8; GitHub Stats
