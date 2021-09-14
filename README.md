@@ -7,6 +7,6 @@ Hi :) 👋, I'm Horlando, You Can Call Me Haykal
 <a href="https://github.com/HorlandoSR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorlandoSR&layout=compact&hide_border=true" />
 </a>
-<a href="https://github.com/MulqiGaming64">
+<a href="https://github.com/HorlandoSR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorlandoSR4&count_private=true&show_icons=true&hide_border=false&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="HorlandoSR GitHub Stats" />
 </a>
